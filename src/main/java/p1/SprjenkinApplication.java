@@ -19,6 +19,7 @@ public class SprjenkinApplication {
 
 	public static void main(String[] args) {
 		logger.info("SprMvnApplication main method STARTED.....");
+		logger.info("SHAHNAWAZ SHAIKH.........................main");
 		SpringApplication.run(SprjenkinApplication.class, args);
 	}
 
