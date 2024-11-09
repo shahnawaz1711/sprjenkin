@@ -15,6 +15,7 @@ class SprjenkinApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("SprMvnApplicationTests contextLoads STARTED.....");
+		logger.info("SHAHNAWAZ SHAIKH.........................");
 		assertEquals(true, true);
 	}
 
